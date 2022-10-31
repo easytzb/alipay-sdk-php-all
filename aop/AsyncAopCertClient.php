@@ -688,7 +688,7 @@ class AsyncAopCertClient
                 $respWellFormed = false;
 
                 // 将返回结果转换本地文件编码
-                $r = iconv($that->postCharset, $that->fileCharset . "//IGNORE", $resp);
+                $r = iconv($that->postCharset, $that->fileCharset . "//IGNORE", $resp->getBody());
                 $signData = null;
 
                 if ("json" == strtolower($that->format)) {
@@ -741,11 +741,8 @@ class AsyncAopCertClient
             } else {
                 $this->http_async->post(
                     $requestUrl, $apiParams,
-                    $ali_success_cb
-                    ,
-                    function($response) use ($error_cb) {
-                        return $error_cb($response);
-                    }
+                    $ali_success_cb,
+                    $error_cb,
                 );
             }
         } catch (Exception $e) {
