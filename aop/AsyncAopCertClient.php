@@ -688,7 +688,7 @@ class AsyncAopCertClient
                 $respWellFormed = false;
 
                 // 将返回结果转换本地文件编码
-                $r = iconv($that->postCharset, $that->fileCharset . "//IGNORE", $resp);
+                $r = iconv($that->postCharset, $that->fileCharset . "//IGNORE", $resp->getBody());
                 $signData = null;
 
                 if ("json" == strtolower($that->format)) {
