@@ -741,11 +741,8 @@ class AsyncAopCertClient
             } else {
                 $this->http_async->post(
                     $requestUrl, $apiParams,
-                    $ali_success_cb
-                    ,
-                    function($response) use ($error_cb) {
-                        return $error_cb($response);
-                    }
+                    $ali_success_cb,
+                    $error_cb,
                 );
             }
         } catch (Exception $e) {
