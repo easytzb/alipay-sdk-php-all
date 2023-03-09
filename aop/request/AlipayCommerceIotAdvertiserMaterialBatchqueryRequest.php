@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.advertiser.material.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-06-16 16:43:17
+ * @since 1.0, 2023-01-11 05:28:34
  */
 class AlipayCommerceIotAdvertiserMaterialBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.studentloan.repay.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:51
+ * @since 1.0, 2023-01-11 03:54:40
  */
 class AlipayFundStudentloanRepayQueryRequest
 {

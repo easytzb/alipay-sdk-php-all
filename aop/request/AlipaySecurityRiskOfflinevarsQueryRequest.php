@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.offlinevars.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-29 16:06:43
+ * @since 1.0, 2023-01-11 04:20:17
  */
 class AlipaySecurityRiskOfflinevarsQueryRequest
 {

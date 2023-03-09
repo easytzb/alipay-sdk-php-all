@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerversion.preonline.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:08:29
+ * @since 1.0, 2023-01-10 22:38:08
  */
 class AlipayOpenMiniInnerversionPreonlineConfirmRequest
 {

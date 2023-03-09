@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.mcomment.newsfeed.add request
  *
  * @author auto create
- * @since 1.0, 2022-08-26 14:21:45
+ * @since 1.0, 2023-01-05 10:04:54
  */
 class AlipaySocialBaseMcommentNewsfeedAddRequest
 {

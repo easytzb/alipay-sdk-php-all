@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.commodity.smartcity.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:37:12
+ * @since 1.0, 2023-01-11 04:06:16
  */
 class AlipayOpenServicemarketCommoditySmartcitySyncRequest
 {

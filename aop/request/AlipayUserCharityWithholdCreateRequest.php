@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.charity.withhold.create request
  *
  * @author auto create
- * @since 1.0, 2022-03-01 14:46:38
+ * @since 1.0, 2023-01-11 08:29:02
  */
 class AlipayUserCharityWithholdCreateRequest
 {

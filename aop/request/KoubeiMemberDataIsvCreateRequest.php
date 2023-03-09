@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.member.data.isv.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:32:44
+ * @since 1.0, 2023-01-04 18:06:48
  */
 class KoubeiMemberDataIsvCreateRequest
 {

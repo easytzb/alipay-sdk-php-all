@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.user.risk.consult request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:46:18
+ * @since 1.0, 2023-01-11 05:26:09
  */
 class ZhimaCreditPeUserRiskConsultRequest
 {

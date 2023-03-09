@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.cloudbus.predictbusline.submit request
  *
  * @author auto create
- * @since 1.0, 2021-01-21 23:34:09
+ * @since 1.0, 2023-01-10 22:30:36
  */
 class AlipayDataAiserviceCloudbusPredictbuslineSubmitRequest
 {

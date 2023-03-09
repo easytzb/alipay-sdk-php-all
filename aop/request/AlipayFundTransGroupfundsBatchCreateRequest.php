@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.groupfunds.batch.create request
  *
  * @author auto create
- * @since 1.0, 2019-06-06 18:05:01
+ * @since 1.0, 2023-01-11 05:16:29
  */
 class AlipayFundTransGroupfundsBatchCreateRequest
 {

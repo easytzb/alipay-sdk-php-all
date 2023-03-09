@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.tuition.schoolpayment.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-08-09 15:01:39
+ * @since 1.0, 2023-01-10 23:37:50
  */
 class AlipayOverseasTuitionSchoolpaymentBatchqueryRequest
 {

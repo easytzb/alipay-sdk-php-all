@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.payment.notify request
  *
  * @author auto create
- * @since 1.0, 2021-01-15 11:35:18
+ * @since 1.0, 2023-01-11 02:36:41
  */
 class AlipayFinancialnetAuthPaymentNotifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.order.scenic.traffic.sync request
  *
  * @author auto create
- * @since 1.0, 2021-10-21 10:40:32
+ * @since 1.0, 2023-01-11 10:16:39
  */
 class AlipayBusinessOrderScenicTrafficSyncRequest
 {

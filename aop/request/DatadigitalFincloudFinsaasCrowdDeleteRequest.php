@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.crowd.delete request
  *
  * @author auto create
- * @since 1.0, 2022-06-27 21:07:00
+ * @since 1.0, 2023-01-11 01:16:39
  */
 class DatadigitalFincloudFinsaasCrowdDeleteRequest
 {

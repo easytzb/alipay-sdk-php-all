@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:32:03
+ * @since 1.0, 2023-01-04 21:55:05
  */
 class AlipayOpenAgentCancelRequest
 {

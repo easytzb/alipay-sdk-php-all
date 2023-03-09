@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.contract.detail.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-17 13:56:38
+ * @since 1.0, 2022-12-14 17:51:38
  */
 class AlipayBossProdContractDetailQueryRequest
 {

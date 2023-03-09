@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.eprint.token.refresh request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 17:54:38
+ * @since 1.0, 2023-01-10 22:34:05
  */
 class AlipayEcoEprintTokenRefreshRequest
 {

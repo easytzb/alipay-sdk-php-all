@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.cashpool.rule.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:19:43
+ * @since 1.0, 2023-01-11 06:24:19
  */
 class AlipayAccountCashpoolRuleModifyRequest
 {

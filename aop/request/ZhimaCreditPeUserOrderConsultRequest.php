@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.user.order.consult request
  *
  * @author auto create
- * @since 1.0, 2021-03-12 14:03:35
+ * @since 1.0, 2023-01-11 10:07:58
  */
 class ZhimaCreditPeUserOrderConsultRequest
 {

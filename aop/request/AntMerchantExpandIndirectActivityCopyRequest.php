@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.indirect.activity.copy request
  *
  * @author auto create
- * @since 1.0, 2019-12-10 17:28:24
+ * @since 1.0, 2023-01-10 22:48:36
  */
 class AntMerchantExpandIndirectActivityCopyRequest
 {

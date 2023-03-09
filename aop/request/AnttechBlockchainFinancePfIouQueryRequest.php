@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.pf.iou.query request
  *
  * @author auto create
- * @since 1.0, 2020-09-15 10:35:11
+ * @since 1.0, 2023-01-10 23:41:03
  */
 class AnttechBlockchainFinancePfIouQueryRequest
 {

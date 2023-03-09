@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.service.offline request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:04:27
+ * @since 1.0, 2023-01-10 23:59:34
  */
 class AlipayEbppCommunityServiceOfflineRequest
 {

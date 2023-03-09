@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.vehicle.vehicleiov.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:23:20
+ * @since 1.0, 2023-01-11 09:21:42
  */
 class AlipayEcoMycarVehicleVehicleiovSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.authentication.smilepay.initialize request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:45
+ * @since 1.0, 2023-01-04 23:55:47
  */
 class ZolozAuthenticationSmilepayInitializeRequest
 {

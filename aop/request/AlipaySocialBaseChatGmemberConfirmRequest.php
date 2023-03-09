@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.chat.gmember.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:05:02
+ * @since 1.0, 2023-01-05 10:21:07
  */
 class AlipaySocialBaseChatGmemberConfirmRequest
 {

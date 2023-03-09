@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.property.businessproperty.batchquery request
  *
  * @author auto create
- * @since 1.0, 2019-10-16 20:55:10
+ * @since 1.0, 2023-01-10 22:36:30
  */
 class AlipayDataDataservicePropertyBusinesspropertyBatchqueryRequest
 {

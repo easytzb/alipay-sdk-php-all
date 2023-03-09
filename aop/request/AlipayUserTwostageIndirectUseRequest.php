@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.twostage.indirect.use request
  *
  * @author auto create
- * @since 1.0, 2022-06-23 18:32:24
+ * @since 1.0, 2022-12-27 10:24:16
  */
 class AlipayUserTwostageIndirectUseRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfcenter.banklogtransfer.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-10 11:55:37
+ * @since 1.0, 2023-01-04 19:14:46
  */
 class AlipayBossFncGfcenterBanklogtransferCreateRequest
 {

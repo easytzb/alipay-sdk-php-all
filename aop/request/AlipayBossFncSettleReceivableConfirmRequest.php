@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.settle.receivable.confirm request
  *
  * @author auto create
- * @since 1.0, 2020-03-26 17:45:10
+ * @since 1.0, 2023-01-11 06:09:37
  */
 class AlipayBossFncSettleReceivableConfirmRequest
 {

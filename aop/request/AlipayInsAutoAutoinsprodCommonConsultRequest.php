@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.autoinsprod.common.consult request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:28:02
+ * @since 1.0, 2023-01-04 18:16:42
  */
 class AlipayInsAutoAutoinsprodCommonConsultRequest
 {

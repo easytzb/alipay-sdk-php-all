@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.elecseal.order.apply request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 15:11:44
+ * @since 1.0, 2023-01-11 00:54:32
  */
 class AlipayBossProdElecsealOrderApplyRequest
 {

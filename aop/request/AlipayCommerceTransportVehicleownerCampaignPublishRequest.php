@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.vehicleowner.campaign.publish request
  *
  * @author auto create
- * @since 1.0, 2020-01-10 17:35:09
+ * @since 1.0, 2023-01-10 22:54:28
  */
 class AlipayCommerceTransportVehicleownerCampaignPublishRequest
 {

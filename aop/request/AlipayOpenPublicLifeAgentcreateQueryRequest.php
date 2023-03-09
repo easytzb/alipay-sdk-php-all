@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.life.agentcreate.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-27 16:13:25
+ * @since 1.0, 2023-01-04 18:00:39
  */
 class AlipayOpenPublicLifeAgentcreateQueryRequest
 {

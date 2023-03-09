@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.promoter.relation.delete request
  *
  * @author auto create
- * @since 1.0, 2021-10-09 11:20:34
+ * @since 1.0, 2023-01-04 22:53:53
  */
 class AlipayCommerceOperationPromoterRelationDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.yuntask.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-03-24 09:51:39
+ * @since 1.0, 2023-01-11 09:31:39
  */
 class AlipayCommerceYuntaskConfirmRequest
 {

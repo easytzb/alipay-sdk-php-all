@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.lixin.userfillform.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-24 16:01:44
+ * @since 1.0, 2023-01-04 23:56:44
  */
 class ZhimaCreditEpLixinUserfillformQueryRequest
 {

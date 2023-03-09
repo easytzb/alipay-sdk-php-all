@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.qipan.crowduser.delete request
  *
  * @author auto create
- * @since 1.0, 2022-08-04 15:56:45
+ * @since 1.0, 2023-01-18 01:05:37
  */
 class AlipayMerchantQipanCrowduserDeleteRequest
 {

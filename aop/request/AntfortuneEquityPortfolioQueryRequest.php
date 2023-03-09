@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.equity.portfolio.query request
  *
  * @author auto create
- * @since 1.0, 2019-11-25 10:55:36
+ * @since 1.0, 2023-01-11 05:47:03
  */
 class AntfortuneEquityPortfolioQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.product.sign.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-03-28 17:15:47
+ * @since 1.0, 2023-01-11 02:01:41
  */
 class AlipayInsSceneProductSignConfirmRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.collect.singlemoneytoken.create request
  *
  * @author auto create
- * @since 1.0, 2020-06-22 17:29:26
+ * @since 1.0, 2023-01-11 04:19:44
  */
 class AlipayFundTransCollectSinglemoneytokenCreateRequest
 {

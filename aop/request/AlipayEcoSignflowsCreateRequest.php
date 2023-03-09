@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.signflows.create request
  *
  * @author auto create
- * @since 1.0, 2020-05-06 11:20:33
+ * @since 1.0, 2023-01-10 23:21:29
  */
 class AlipayEcoSignflowsCreateRequest
 {

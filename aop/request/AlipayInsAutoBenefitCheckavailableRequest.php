@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.benefit.checkavailable request
  *
  * @author auto create
- * @since 1.0, 2020-01-08 19:54:46
+ * @since 1.0, 2023-01-11 03:01:38
  */
 class AlipayInsAutoBenefitCheckavailableRequest
 {

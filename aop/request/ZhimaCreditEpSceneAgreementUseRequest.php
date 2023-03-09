@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.scene.agreement.use request
  *
  * @author auto create
- * @since 1.0, 2021-10-27 17:12:55
+ * @since 1.0, 2023-01-04 18:14:25
  */
 class ZhimaCreditEpSceneAgreementUseRequest
 {

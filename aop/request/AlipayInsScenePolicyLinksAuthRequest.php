@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.policy.links.auth request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 17:07:12
+ * @since 1.0, 2023-01-04 23:39:24
  */
 class AlipayInsScenePolicyLinksAuthRequest
 {

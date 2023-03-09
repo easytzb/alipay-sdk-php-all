@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.commodity.shop.offline request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:36:39
+ * @since 1.0, 2023-01-04 21:37:36
  */
 class AlipayOpenServicemarketCommodityShopOfflineRequest
 {

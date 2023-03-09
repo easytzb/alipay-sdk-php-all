@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.zmgo.agreement.sign request
  *
  * @author auto create
- * @since 1.0, 2021-10-15 17:42:45
+ * @since 1.0, 2023-01-11 00:42:31
  */
 class ZhimaCreditPeZmgoAgreementSignRequest
 {

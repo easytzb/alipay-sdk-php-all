@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.shift.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:21:28
+ * @since 1.0, 2023-01-05 11:14:58
  */
 class KoubeiCateringPosShiftSyncRequest
 {

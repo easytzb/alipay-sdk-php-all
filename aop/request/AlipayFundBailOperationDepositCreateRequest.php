@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.bail.operation.deposit.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 14:27:53
+ * @since 1.0, 2023-01-11 02:51:37
  */
 class AlipayFundBailOperationDepositCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.cardbin.private.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:05
+ * @since 1.0, 2023-01-11 06:30:27
  */
 class AlipayFinancialnetAuthCardbinPrivateQueryRequest
 {

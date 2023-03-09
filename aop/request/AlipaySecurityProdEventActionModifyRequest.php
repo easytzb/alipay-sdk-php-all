@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.event.action.modify request
  *
  * @author auto create
- * @since 1.0, 2021-08-09 17:03:56
+ * @since 1.0, 2023-01-10 23:53:41
  */
 class AlipaySecurityProdEventActionModifyRequest
 {

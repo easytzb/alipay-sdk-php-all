@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.payforprivilege.pay.create request
  *
  * @author auto create
- * @since 1.0, 2022-01-18 10:55:40
+ * @since 1.0, 2023-01-11 02:26:40
  */
 class AlipayMerchantPayforprivilegePayCreateRequest
 {

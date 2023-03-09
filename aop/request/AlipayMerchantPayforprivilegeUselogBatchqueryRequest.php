@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.payforprivilege.uselog.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-03-29 09:56:13
+ * @since 1.0, 2023-01-11 09:26:40
  */
 class AlipayMerchantPayforprivilegeUselogBatchqueryRequest
 {

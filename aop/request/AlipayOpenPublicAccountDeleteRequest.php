@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.account.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:24:01
+ * @since 1.0, 2023-01-04 21:41:15
  */
 class AlipayOpenPublicAccountDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.quotation.researchdata.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-16 00:26:17
+ * @since 1.0, 2023-01-11 07:05:21
  */
 class AntfortuneQuotationResearchdataQueryRequest
 {

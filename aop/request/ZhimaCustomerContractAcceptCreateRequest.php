@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.contract.accept.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:44
+ * @since 1.0, 2023-01-04 20:56:38
  */
 class ZhimaCustomerContractAcceptCreateRequest
 {

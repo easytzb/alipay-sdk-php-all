@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.life.label.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:28:08
+ * @since 1.0, 2023-01-04 18:23:37
  */
 class AlipayOpenPublicLifeLabelBatchqueryRequest
 {

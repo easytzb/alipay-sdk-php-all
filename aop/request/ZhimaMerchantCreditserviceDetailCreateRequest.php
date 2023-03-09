@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.creditservice.detail.create request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 16:59:55
+ * @since 1.0, 2023-01-04 18:20:23
  */
 class ZhimaMerchantCreditserviceDetailCreateRequest
 {

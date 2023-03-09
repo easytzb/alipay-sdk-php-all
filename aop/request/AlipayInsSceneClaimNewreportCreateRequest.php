@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.claim.newreport.create request
  *
  * @author auto create
- * @since 1.0, 2022-03-08 13:29:58
+ * @since 1.0, 2023-01-10 23:35:09
  */
 class AlipayInsSceneClaimNewreportCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.authorization.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-09 11:15:19
+ * @since 1.0, 2023-01-04 18:51:55
  */
 class AlipayInsDataAuthorizationQueryRequest
 {

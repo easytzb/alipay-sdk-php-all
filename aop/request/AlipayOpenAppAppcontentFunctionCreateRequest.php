@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.appcontent.function.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:57:30
+ * @since 1.0, 2023-01-04 22:21:18
  */
 class AlipayOpenAppAppcontentFunctionCreateRequest
 {

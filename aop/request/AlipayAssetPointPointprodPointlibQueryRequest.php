@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.asset.point.pointprod.pointlib.query request
  *
  * @author auto create
- * @since 1.0, 2019-08-30 17:14:12
+ * @since 1.0, 2023-01-11 05:24:16
  */
 class AlipayAssetPointPointprodPointlibQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.family.share.admittance.preconsult request
  *
  * @author auto create
- * @since 1.0, 2022-03-14 11:26:21
+ * @since 1.0, 2023-01-03 10:55:52
  */
 class AlipayUserFamilyShareAdmittancePreconsultRequest
 {

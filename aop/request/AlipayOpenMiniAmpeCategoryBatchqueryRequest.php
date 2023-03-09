@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.category.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-07-14 14:37:25
+ * @since 1.0, 2023-01-10 23:37:34
  */
 class AlipayOpenMiniAmpeCategoryBatchqueryRequest
 {

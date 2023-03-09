@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.order.rent.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:49:11
+ * @since 1.0, 2023-01-04 18:54:14
  */
 class ZhimaMerchantOrderRentCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.lotterymall.exchangerecordstatus.sync request
  *
  * @author auto create
- * @since 1.0, 2020-01-15 09:35:39
+ * @since 1.0, 2023-01-10 22:56:05
  */
 class AlipayOpenLotterymallExchangerecordstatusSyncRequest
 {

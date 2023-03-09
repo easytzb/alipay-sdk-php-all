@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.sales.kbasset.stuff.inventoryrealtime.sync request
  *
  * @author auto create
- * @since 1.0, 2019-05-30 23:54:50
+ * @since 1.0, 2023-01-05 11:42:06
  */
 class KoubeiSalesKbassetStuffInventoryrealtimeSyncRequest
 {

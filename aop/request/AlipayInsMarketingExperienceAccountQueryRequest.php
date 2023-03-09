@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.marketing.experience.account.query request
  *
  * @author auto create
- * @since 1.0, 2019-06-25 17:35:01
+ * @since 1.0, 2023-01-11 05:19:27
  */
 class AlipayInsMarketingExperienceAccountQueryRequest
 {

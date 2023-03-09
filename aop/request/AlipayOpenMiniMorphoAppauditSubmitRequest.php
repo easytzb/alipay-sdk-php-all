@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.morpho.appaudit.submit request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:13:35
+ * @since 1.0, 2023-01-11 05:48:08
  */
 class AlipayOpenMiniMorphoAppauditSubmitRequest
 {

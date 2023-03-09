@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.express.signcard.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:25:40
+ * @since 1.0, 2023-01-12 16:56:40
  */
 class AlipayFinancialnetAuthExpressSigncardQueryRequest
 {

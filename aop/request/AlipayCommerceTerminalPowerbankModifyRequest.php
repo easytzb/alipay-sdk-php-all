@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.terminal.powerbank.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:55:35
+ * @since 1.0, 2023-01-04 19:07:13
  */
 class AlipayCommerceTerminalPowerbankModifyRequest
 {

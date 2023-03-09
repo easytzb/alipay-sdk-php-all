@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cplife.residentinfo.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:42:32
+ * @since 1.0, 2023-01-04 17:51:16
  */
 class AlipayEcoCplifeResidentinfoUploadRequest
 {

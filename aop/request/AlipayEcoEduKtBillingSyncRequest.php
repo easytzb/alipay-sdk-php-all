@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.edu.kt.billing.sync request
  *
  * @author auto create
- * @since 1.0, 2022-03-25 11:55:59
+ * @since 1.0, 2023-01-11 09:11:41
  */
 class AlipayEcoEduKtBillingSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.transfer.certify request
  *
  * @author auto create
- * @since 1.0, 2021-07-15 16:32:37
+ * @since 1.0, 2023-01-11 08:56:40
  */
 class AlipayOverseasTransferCertifyRequest
 {

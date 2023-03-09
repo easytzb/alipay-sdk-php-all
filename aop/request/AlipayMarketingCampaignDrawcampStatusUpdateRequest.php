@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.drawcamp.status.update request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 15:39:48
+ * @since 1.0, 2023-01-05 10:02:43
  */
 class AlipayMarketingCampaignDrawcampStatusUpdateRequest
 {

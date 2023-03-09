@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.asset.card.return.refund request
  *
  * @author auto create
- * @since 1.0, 2020-04-20 13:32:38
+ * @since 1.0, 2023-01-11 09:31:40
  */
 class AlipayAssetCardReturnRefundRequest
 {

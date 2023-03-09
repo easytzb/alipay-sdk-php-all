@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.royalty.relation.unbind request
  *
  * @author auto create
- * @since 1.0, 2021-09-18 10:56:49
+ * @since 1.0, 2023-01-13 16:24:19
  */
 class AlipayTradeRoyaltyRelationUnbindRequest
 {

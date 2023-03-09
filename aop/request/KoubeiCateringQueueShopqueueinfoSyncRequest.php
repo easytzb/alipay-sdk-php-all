@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.queue.shopqueueinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:22:32
+ * @since 1.0, 2023-01-11 05:03:01
  */
 class KoubeiCateringQueueShopqueueinfoSyncRequest
 {

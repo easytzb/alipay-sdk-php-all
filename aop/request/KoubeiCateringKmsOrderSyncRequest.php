@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.kms.order.sync request
  *
  * @author auto create
- * @since 1.0, 2021-03-24 18:51:21
+ * @since 1.0, 2023-01-11 07:19:01
  */
 class KoubeiCateringKmsOrderSyncRequest
 {

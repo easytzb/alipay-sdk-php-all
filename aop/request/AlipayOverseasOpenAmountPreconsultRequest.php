@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.open.amount.preconsult request
  *
  * @author auto create
- * @since 1.0, 2022-07-13 12:15:31
+ * @since 1.0, 2023-01-11 00:10:32
  */
 class AlipayOverseasOpenAmountPreconsultRequest
 {

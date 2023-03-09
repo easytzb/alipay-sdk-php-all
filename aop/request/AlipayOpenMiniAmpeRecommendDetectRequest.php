@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.recommend.detect request
  *
  * @author auto create
- * @since 1.0, 2021-10-14 14:00:32
+ * @since 1.0, 2023-01-11 07:52:03
  */
 class AlipayOpenMiniAmpeRecommendDetectRequest
 {

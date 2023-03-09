@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.content.contentcount.set request
  *
  * @author auto create
- * @since 1.0, 2019-03-15 10:40:01
+ * @since 1.0, 2023-01-05 11:33:41
  */
 class KoubeiContentContentcountSetRequest
 {

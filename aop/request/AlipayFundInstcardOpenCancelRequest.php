@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.instcard.open.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-09-29 11:30:31
+ * @since 1.0, 2023-01-11 00:40:22
  */
 class AlipayFundInstcardOpenCancelRequest
 {

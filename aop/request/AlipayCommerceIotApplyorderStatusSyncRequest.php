@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.applyorder.status.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 11:29:18
+ * @since 1.0, 2023-01-11 05:12:28
  */
 class AlipayCommerceIotApplyorderStatusSyncRequest
 {

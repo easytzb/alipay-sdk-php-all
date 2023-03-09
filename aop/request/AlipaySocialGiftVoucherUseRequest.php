@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.gift.voucher.use request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:50:16
+ * @since 1.0, 2023-01-11 04:31:15
  */
 class AlipaySocialGiftVoucherUseRequest
 {

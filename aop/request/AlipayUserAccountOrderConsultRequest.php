@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.order.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:07
+ * @since 1.0, 2023-01-11 00:09:11
  */
 class AlipayUserAccountOrderConsultRequest
 {

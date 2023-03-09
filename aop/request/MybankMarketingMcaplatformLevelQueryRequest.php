@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.marketing.mcaplatform.level.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 11:51:46
+ * @since 1.0, 2023-01-11 07:58:13
  */
 class MybankMarketingMcaplatformLevelQueryRequest
 {

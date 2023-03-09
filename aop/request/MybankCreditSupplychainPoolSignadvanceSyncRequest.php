@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.pool.signadvance.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:43:49
+ * @since 1.0, 2023-01-10 23:58:30
  */
 class MybankCreditSupplychainPoolSignadvanceSyncRequest
 {

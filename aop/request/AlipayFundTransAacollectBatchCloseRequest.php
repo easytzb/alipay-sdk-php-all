@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.aacollect.batch.close request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:51
+ * @since 1.0, 2023-01-05 10:58:32
  */
 class AlipayFundTransAacollectBatchCloseRequest
 {

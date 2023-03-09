@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.item.open.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:07:15
+ * @since 1.0, 2023-01-04 18:19:14
  */
 class AntMerchantExpandItemOpenDeleteRequest
 {

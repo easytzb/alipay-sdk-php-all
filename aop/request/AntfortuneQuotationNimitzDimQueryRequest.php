@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.quotation.nimitz.dim.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 11:26:50
+ * @since 1.0, 2023-01-09 16:56:38
  */
 class AntfortuneQuotationNimitzDimQueryRequest
 {

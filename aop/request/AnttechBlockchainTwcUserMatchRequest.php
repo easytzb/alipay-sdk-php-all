@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.twc.user.match request
  *
  * @author auto create
- * @since 1.0, 2021-09-08 17:29:57
+ * @since 1.0, 2023-01-11 02:16:39
  */
 class AnttechBlockchainTwcUserMatchRequest
 {

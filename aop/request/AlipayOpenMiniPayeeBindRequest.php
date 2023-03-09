@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.payee.bind request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:14:54
+ * @since 1.0, 2023-01-11 04:47:07
  */
 class AlipayOpenMiniPayeeBindRequest
 {

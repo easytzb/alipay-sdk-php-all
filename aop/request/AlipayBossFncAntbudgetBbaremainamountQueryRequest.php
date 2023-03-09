@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.antbudget.bbaremainamount.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-03 15:50:21
+ * @since 1.0, 2023-01-11 07:28:58
  */
 class AlipayBossFncAntbudgetBbaremainamountQueryRequest
 {

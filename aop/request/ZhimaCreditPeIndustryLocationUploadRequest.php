@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.industry.location.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:47:51
+ * @since 1.0, 2023-01-05 11:40:45
  */
 class ZhimaCreditPeIndustryLocationUploadRequest
 {

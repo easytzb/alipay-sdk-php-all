@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.bill.close request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:03:44
+ * @since 1.0, 2023-01-05 11:36:56
  */
 class AlipayFundTransBillCloseRequest
 {

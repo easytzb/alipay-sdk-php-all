@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.sharetoken.decode request
  *
  * @author auto create
- * @since 1.0, 2022-08-10 11:43:51
+ * @since 1.0, 2023-01-11 03:29:47
  */
 class AlipayMarketingSharetokenDecodeRequest
 {

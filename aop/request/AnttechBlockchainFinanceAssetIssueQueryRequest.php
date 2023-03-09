@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.asset.issue.query request
  *
  * @author auto create
- * @since 1.0, 2019-12-26 10:59:01
+ * @since 1.0, 2023-01-11 05:51:36
  */
 class AnttechBlockchainFinanceAssetIssueQueryRequest
 {

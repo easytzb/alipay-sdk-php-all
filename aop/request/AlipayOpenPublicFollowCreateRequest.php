@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.follow.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:25:57
+ * @since 1.0, 2023-01-11 10:06:49
  */
 class AlipayOpenPublicFollowCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.scene.trade.consult request
  *
  * @author auto create
- * @since 1.0, 2021-10-27 17:13:31
+ * @since 1.0, 2023-01-11 05:01:41
  */
 class ZhimaCreditEpSceneTradeConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.campaign.qrcode.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:16:28
+ * @since 1.0, 2023-01-05 10:17:53
  */
 class KoubeiMarketingCampaignQrcodeQueryRequest
 {

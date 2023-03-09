@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.saving.pass.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-14 19:10:08
+ * @since 1.0, 2023-01-11 09:26:41
  */
 class AntMerchantExpandSavingPassQueryRequest
 {

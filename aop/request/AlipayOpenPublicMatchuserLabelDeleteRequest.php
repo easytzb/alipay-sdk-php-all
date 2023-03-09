@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.matchuser.label.delete request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:59:59
+ * @since 1.0, 2023-01-05 00:32:46
  */
 class AlipayOpenPublicMatchuserLabelDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.sign.status.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-29 14:38:14
+ * @since 1.0, 2023-01-11 00:48:28
  */
 class AlipayFincoreComplianceSignStatusQueryRequest
 {

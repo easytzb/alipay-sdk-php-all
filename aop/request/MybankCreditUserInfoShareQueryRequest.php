@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.user.info.share.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:13
+ * @since 1.0, 2023-01-04 22:19:01
  */
 class MybankCreditUserInfoShareQueryRequest
 {

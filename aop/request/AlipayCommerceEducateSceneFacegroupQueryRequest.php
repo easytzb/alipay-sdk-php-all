@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.scene.facegroup.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-24 18:05:40
+ * @since 1.0, 2023-01-04 23:06:02
  */
 class AlipayCommerceEducateSceneFacegroupQueryRequest
 {

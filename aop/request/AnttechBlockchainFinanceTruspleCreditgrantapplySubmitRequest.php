@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.trusple.creditgrantapply.submit request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:10:26
+ * @since 1.0, 2023-01-11 08:56:39
  */
 class AnttechBlockchainFinanceTruspleCreditgrantapplySubmitRequest
 {

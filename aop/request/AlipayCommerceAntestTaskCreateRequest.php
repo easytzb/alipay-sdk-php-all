@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.antest.task.create request
  *
  * @author auto create
- * @since 1.0, 2020-04-21 15:47:24
+ * @since 1.0, 2023-01-11 06:18:43
  */
 class AlipayCommerceAntestTaskCreateRequest
 {

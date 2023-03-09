@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.vunue.ordervoucher.verify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:54:08
+ * @since 1.0, 2023-01-11 00:11:21
  */
 class AlipayCommerceSportsVunueOrdervoucherVerifyRequest
 {

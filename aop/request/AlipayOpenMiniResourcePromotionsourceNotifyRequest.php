@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.resource.promotionsource.notify request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:17:17
+ * @since 1.0, 2023-01-10 23:43:44
  */
 class AlipayOpenMiniResourcePromotionsourceNotifyRequest
 {

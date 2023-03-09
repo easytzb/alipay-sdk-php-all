@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.industry.trade.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-12 10:53:33
+ * @since 1.0, 2023-01-10 22:24:09
  */
 class ZhimaCreditPeIndustryTradeQueryRequest
 {

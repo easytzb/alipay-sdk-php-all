@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.reservation.isvorder.sync request
  *
  * @author auto create
- * @since 1.0, 2020-12-16 20:50:47
+ * @since 1.0, 2023-01-05 11:31:31
  */
 class KoubeiServindustryReservationIsvorderSyncRequest
 {

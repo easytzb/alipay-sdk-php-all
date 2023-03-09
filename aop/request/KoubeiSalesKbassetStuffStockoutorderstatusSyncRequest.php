@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.sales.kbasset.stuff.stockoutorderstatus.sync request
  *
  * @author auto create
- * @since 1.0, 2019-05-30 23:54:47
+ * @since 1.0, 2023-01-11 05:07:39
  */
 class KoubeiSalesKbassetStuffStockoutorderstatusSyncRequest
 {

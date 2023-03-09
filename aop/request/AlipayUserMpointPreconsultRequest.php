@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.mpoint.preconsult request
  *
  * @author auto create
- * @since 1.0, 2022-08-04 19:13:46
+ * @since 1.0, 2023-01-30 13:16:38
  */
 class AlipayUserMpointPreconsultRequest
 {

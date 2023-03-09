@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.template.instance.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-23 14:30:40
+ * @since 1.0, 2023-02-08 10:30:06
  */
 class AlipayFincoreComplianceTemplateInstanceCreateRequest
 {

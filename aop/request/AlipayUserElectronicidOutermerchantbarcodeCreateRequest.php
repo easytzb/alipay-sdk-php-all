@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.electronicid.outermerchantbarcode.create request
  *
  * @author auto create
- * @since 1.0, 2020-08-27 15:50:13
+ * @since 1.0, 2023-01-11 06:42:13
  */
 class AlipayUserElectronicidOutermerchantbarcodeCreateRequest
 {

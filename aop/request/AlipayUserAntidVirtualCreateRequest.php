@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antid.virtual.create request
  *
  * @author auto create
- * @since 1.0, 2021-06-17 15:19:23
+ * @since 1.0, 2023-01-10 23:35:26
  */
 class AlipayUserAntidVirtualCreateRequest
 {

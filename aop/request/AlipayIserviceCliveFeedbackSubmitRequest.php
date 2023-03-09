@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.clive.feedback.submit request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:16:42
+ * @since 1.0, 2023-01-04 19:03:21
  */
 class AlipayIserviceCliveFeedbackSubmitRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.edu.kt.parent.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:16
+ * @since 1.0, 2023-01-04 18:10:33
  */
 class AlipayEcoEduKtParentQueryRequest
 {

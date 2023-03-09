@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.alcagmprod.agreement.unsign request
  *
  * @author auto create
- * @since 1.0, 2021-11-12 14:01:39
+ * @since 1.0, 2023-01-11 09:21:42
  */
 class AlipayBossProdAlcagmprodAgreementUnsignRequest
 {

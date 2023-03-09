@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.wufufuka.aliyun.refund request
  *
  * @author auto create
- * @since 1.0, 2021-12-10 15:55:38
+ * @since 1.0, 2023-01-11 07:56:20
  */
 class AlipayUserWufufukaAliyunRefundRequest
 {
