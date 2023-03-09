@@ -750,8 +750,12 @@ class AopCertClient
             return true;
         if ($value === null)
             return true;
-        if (trim($value) === "")
+        if (!is_array($value) && trim($value) === "")
             return true;
+
+        if (!$value) {
+            return true;
+        }
 
         return false;
     }
