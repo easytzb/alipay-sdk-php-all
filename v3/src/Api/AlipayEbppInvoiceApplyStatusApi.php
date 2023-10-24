@@ -1,6 +1,6 @@
 <?php
 /**
- * AlipayEbppInvoiceApplyStatusApi
+ * AlipayEbppInvoiceApplystatusApi
  * PHP version 7.4
  *
  * @category Class
@@ -43,14 +43,14 @@ use Alipay\OpenAPISDK\HeaderSelector;
 use Alipay\OpenAPISDK\ObjectSerializer;
 
 /**
- * AlipayEbppInvoiceApplyStatusApi Class Doc Comment
+ * AlipayEbppInvoiceApplystatusApi Class Doc Comment
  *
  * @category Class
  * @package  Alipay\OpenAPISDK
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech
  */
-class AlipayEbppInvoiceApplyStatusApi
+class AlipayEbppInvoiceApplystatusApi
 {
     /**
      * @var ClientInterface
@@ -143,38 +143,38 @@ class AlipayEbppInvoiceApplyStatusApi
     }
 
     /**
-     * Operation notify
+     * Operation query
      *
-     * 发票申请状态变更
+     * 根据外部订单号查询开票状态
      *
-     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyModel $alipayEbppInvoiceApplyStatusNotifyModel alipayEbppInvoiceApplyStatusNotifyModel (optional)
+     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryModel $alipayEbppInvoiceApplystatusQueryModel alipayEbppInvoiceApplystatusQueryModel (optional)
      * @param CustomizedParams $customizedParams
      *
      * @throws \Alipay\OpenAPISDK\ApiException on non-2xx response
      * @throws \InvalidArgumentException
-     * @return \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyResponseModel|\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyDefaultResponse
+     * @return \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryResponseModel|\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryDefaultResponse
      */
-    public function notify($alipayEbppInvoiceApplyStatusNotifyModel = null, CustomizedParams $customizedParams = null)
+    public function query($alipayEbppInvoiceApplystatusQueryModel = null, CustomizedParams $customizedParams = null)
     {
-        list($response) = $this->notifyWithHttpInfo($alipayEbppInvoiceApplyStatusNotifyModel, $customizedParams);
+        list($response) = $this->queryWithHttpInfo($alipayEbppInvoiceApplystatusQueryModel, $customizedParams);
         return $response;
     }
 
     /**
-     * Operation notifyWithHttpInfo
+     * Operation queryWithHttpInfo
      *
-     * 发票申请状态变更
+     * 根据外部订单号查询开票状态
      *
-     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyModel $alipayEbppInvoiceApplyStatusNotifyModel (optional)
+     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryModel $alipayEbppInvoiceApplystatusQueryModel (optional)
      * @param CustomizedParams $customizedParams
      *
      * @throws \Alipay\OpenAPISDK\ApiException on non-2xx response
      * @throws \InvalidArgumentException
-     * @return array of \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyResponseModel|\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyDefaultResponse, HTTP status code, HTTP response headers (array of strings)
+     * @return array of \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryResponseModel|\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryDefaultResponse, HTTP status code, HTTP response headers (array of strings)
      */
-    public function notifyWithHttpInfo($alipayEbppInvoiceApplyStatusNotifyModel = null, CustomizedParams $customizedParams = null)
+    public function queryWithHttpInfo($alipayEbppInvoiceApplystatusQueryModel = null, CustomizedParams $customizedParams = null)
     {
-        $request = $this->notifyRequest($alipayEbppInvoiceApplyStatusNotifyModel, $customizedParams);
+        $request = $this->queryRequest($alipayEbppInvoiceApplystatusQueryModel, $customizedParams);
 
         try {
             $options = $this->createHttpClientOption();
@@ -224,7 +224,7 @@ class AlipayEbppInvoiceApplyStatusApi
 
             switch($statusCode) {
                 case 200:
-                    if ('\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyResponseModel' === '\SplFileObject') {
+                    if ('\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryResponseModel' === '\SplFileObject') {
                         $content = $response->getBody(); //stream goes to serializer
                     } else {
                         $content = (string) $response->getBody();
@@ -232,40 +232,40 @@ class AlipayEbppInvoiceApplyStatusApi
                         $this->alipayConfigUtil->verifyResponse($content, $response->getHeaders(), false);
                         //解密
                         $content = $this->alipayConfigUtil->decrypt($content);
-                        if ('\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyResponseModel' !== 'string') {
+                        if ('\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryResponseModel' !== 'string') {
                             $content = json_decode($content);
                         }
                     }
                     AlipayLogger::logBizResponseInfo($response->getStatusCode(), $content, $response->getHeaders());
 
                     return [
-                        ObjectSerializer::deserialize($content, '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyResponseModel', []),
+                        ObjectSerializer::deserialize($content, '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryResponseModel', []),
                         $response->getStatusCode(),
                         $response->getHeaders()
                     ];
                                 
                 default:
-                    if ('\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyDefaultResponse' === '\SplFileObject') {
+                    if ('\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryDefaultResponse' === '\SplFileObject') {
                         $content = $response->getBody(); //stream goes to serializer
                     } else {
                         $content = (string) $response->getBody();
                         //验签
                         $this->alipayConfigUtil->verifyResponse($content, $response->getHeaders(), true);
-                        if ('\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyDefaultResponse' !== 'string') {
+                        if ('\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryDefaultResponse' !== 'string') {
                             $content = json_decode($content);
                         }
                     }
                     AlipayLogger::logBizResponseInfo($response->getStatusCode(), $content, $response->getHeaders());
 
                     return [
-                        //ObjectSerializer::deserialize($content, '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyDefaultResponse', []),
+                        //ObjectSerializer::deserialize($content, '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryDefaultResponse', []),
                         $content,
                         $response->getStatusCode(),
                         $response->getHeaders()
                     ];
             }
 
-            $returnType = '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyResponseModel';
+            $returnType = '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryResponseModel';
             if ($returnType === '\SplFileObject') {
                 $content = $response->getBody(); //stream goes to serializer
             } else {
@@ -291,7 +291,7 @@ class AlipayEbppInvoiceApplyStatusApi
                 case 200:
                     $data = ObjectSerializer::deserialize(
                         $e->getResponseBody(),
-                        '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyResponseModel',
+                        '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryResponseModel',
                         $e->getResponseHeaders()
                     );
                     $e->setResponseObject($data);
@@ -300,7 +300,7 @@ class AlipayEbppInvoiceApplyStatusApi
                 default:
                     //$data = ObjectSerializer::deserialize(
                     //    $e->getResponseBody(),
-                    //    '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyDefaultResponse',
+                    //    '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryDefaultResponse',
                     //    $e->getResponseHeaders()
                     //);
                     //$e->setResponseObject($data);
@@ -311,19 +311,19 @@ class AlipayEbppInvoiceApplyStatusApi
     }
 
     /**
-     * Operation notifyAsync
+     * Operation queryAsync
      *
-     * 发票申请状态变更
+     * 根据外部订单号查询开票状态
      *
-     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyModel $alipayEbppInvoiceApplyStatusNotifyModel (optional)
+     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryModel $alipayEbppInvoiceApplystatusQueryModel (optional)
      * @param CustomizedParams $customizedParams
      *
      * @throws \InvalidArgumentException
      * @return \GuzzleHttp\Promise\PromiseInterface
      */
-    public function notifyAsync($alipayEbppInvoiceApplyStatusNotifyModel = null, CustomizedParams $customizedParams = null)
+    public function queryAsync($alipayEbppInvoiceApplystatusQueryModel = null, CustomizedParams $customizedParams = null)
     {
-        return $this->notifyAsyncWithHttpInfo($alipayEbppInvoiceApplyStatusNotifyModel, $customizedParams)
+        return $this->queryAsyncWithHttpInfo($alipayEbppInvoiceApplystatusQueryModel, $customizedParams)
             ->then(
                 function ($response) {
                     return $response[0];
@@ -332,20 +332,20 @@ class AlipayEbppInvoiceApplyStatusApi
     }
 
     /**
-     * Operation notifyAsyncWithHttpInfo
+     * Operation queryAsyncWithHttpInfo
      *
-     * 发票申请状态变更
+     * 根据外部订单号查询开票状态
      *
-     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyModel $alipayEbppInvoiceApplyStatusNotifyModel (optional)
+     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryModel $alipayEbppInvoiceApplystatusQueryModel (optional)
      * @param CustomizedParams $customizedParams
      *
      * @throws \InvalidArgumentException
      * @return \GuzzleHttp\Promise\PromiseInterface
      */
-    public function notifyAsyncWithHttpInfo($alipayEbppInvoiceApplyStatusNotifyModel = null, CustomizedParams $customizedParams = null)
+    public function queryAsyncWithHttpInfo($alipayEbppInvoiceApplystatusQueryModel = null, CustomizedParams $customizedParams = null)
     {
-        $returnType = '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyResponseModel';
-        $request = $this->notifyRequest($alipayEbppInvoiceApplyStatusNotifyModel, $customizedParams);
+        $returnType = '\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryResponseModel';
+        $request = $this->queryRequest($alipayEbppInvoiceApplystatusQueryModel, $customizedParams);
 
         return $this->client
             ->sendAsync($request, $this->createHttpClientOption())
@@ -390,18 +390,18 @@ class AlipayEbppInvoiceApplyStatusApi
     }
 
     /**
-     * Create request for operation 'notify'
+     * Create request for operation 'query'
      *
-     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplyStatusNotifyModel $alipayEbppInvoiceApplyStatusNotifyModel (optional)
+     * @param  \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceApplystatusQueryModel $alipayEbppInvoiceApplystatusQueryModel (optional)
      * @param CustomizedParams $customizedParams
      *
      * @throws \InvalidArgumentException
      * @return \GuzzleHttp\Psr7\Request
      */
-    public function notifyRequest($alipayEbppInvoiceApplyStatusNotifyModel = null, CustomizedParams $customizedParams = null)
+    public function queryRequest($alipayEbppInvoiceApplystatusQueryModel = null, CustomizedParams $customizedParams = null)
     {
 
-        $resourcePath = '/v3/alipay/ebpp/invoice/apply/status/notify';
+        $resourcePath = '/v3/alipay/ebpp/invoice/applystatus/query';
         $formParams = [];
         $queryParams = [];
         $headerParams = [];
@@ -431,13 +431,13 @@ class AlipayEbppInvoiceApplyStatusApi
             && ($headers['Content-Type'] === 'application/json' || $isEncrypt)) {
             $signContent = $this->alipayConfigUtil->encrypt($customizedParams->getBodyContent(), $headers, $multipart);
             $httpBody = $signContent;
-        } elseif (isset($alipayEbppInvoiceApplyStatusNotifyModel)) {
-            $signContent = \GuzzleHttp\json_encode(ObjectSerializer::sanitizeForSerialization($alipayEbppInvoiceApplyStatusNotifyModel), JSON_UNESCAPED_UNICODE);
+        } elseif (isset($alipayEbppInvoiceApplystatusQueryModel)) {
+            $signContent = \GuzzleHttp\json_encode(ObjectSerializer::sanitizeForSerialization($alipayEbppInvoiceApplystatusQueryModel), JSON_UNESCAPED_UNICODE);
             if ($headers['Content-Type'] === 'application/json' || $isEncrypt) {
                 $signContent = $this->alipayConfigUtil->encrypt($signContent, $headers, $multipart);
                 $httpBody = $signContent;
             } else {
-                $httpBody = $alipayEbppInvoiceApplyStatusNotifyModel;
+                $httpBody = $alipayEbppInvoiceApplystatusQueryModel;
             }
         } elseif (count($formParams) > 0) {
             if ($multipart) {
@@ -535,12 +535,12 @@ class AlipayEbppInvoiceApplyStatusApi
         $query = ObjectSerializer::buildQuery($queryParams);
         $url = $resourcePath . ($query ? "?{$query}" : '');
         //加签
-        $this->alipayConfigUtil->sign('PUT', $url, $signContent, $headers);
+        $this->alipayConfigUtil->sign('POST', $url, $signContent, $headers);
 
         $basePath = $this->alipayConfigUtil->checkEmpty($this->alipayConfigUtil->getServerUrl()) ? $this->config->getHost() : $this->alipayConfigUtil->getServerUrl();
-        AlipayLogger::logBizInfo($basePath . $url, $signContent, 'PUT', $multipart ? "multipart/form-data" : $headers['Content-Type'], $headers['alipay-request-id']);
+        AlipayLogger::logBizInfo($basePath . $url, $signContent, 'POST', $multipart ? "multipart/form-data" : $headers['Content-Type'], $headers['alipay-request-id']);
         return new Request(
-            'PUT',
+            'POST',
             $basePath . $url,
             $headers,
             $httpBody
