@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.objectstorage.iplimit.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-03 16:02:01
+ * @since 1.0, 2023-10-25 15:40:20
  */
 class AlipayCloudCloudrunObjectstorageIplimitQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.staticsite.domain.delete request
  *
  * @author auto create
- * @since 1.0, 2023-08-03 16:41:57
+ * @since 1.0, 2023-10-09 13:51:46
  */
 class AlipayCloudCloudrunStaticsiteDomainDeleteRequest
 {

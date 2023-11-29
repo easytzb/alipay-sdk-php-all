@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.staticsite.directory.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-03 16:02:01
+ * @since 1.0, 2023-10-10 09:51:44
  */
 class AlipayCloudCloudrunStaticsiteDirectoryCreateRequest
 {

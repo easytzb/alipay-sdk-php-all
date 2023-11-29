@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.refund request
  *
  * @author auto create
- * @since 1.0, 2023-09-03 23:06:45
+ * @since 1.0, 2023-10-25 21:16:47
  */
 class AlipayFundWalletRefundRequest
 {

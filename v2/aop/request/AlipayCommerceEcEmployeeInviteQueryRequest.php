@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.employee.invite.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-11 11:14:07
+ * @since 1.0, 2023-10-09 22:31:44
  */
 class AlipayCommerceEcEmployeeInviteQueryRequest
 {

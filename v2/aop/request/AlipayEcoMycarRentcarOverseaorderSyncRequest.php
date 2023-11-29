@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.rentcar.overseaorder.sync request
  *
  * @author auto create
- * @since 1.0, 2023-09-06 16:46:42
+ * @since 1.0, 2023-10-10 19:16:45
  */
 class AlipayEcoMycarRentcarOverseaorderSyncRequest
 {

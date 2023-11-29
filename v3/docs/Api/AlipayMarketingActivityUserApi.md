@@ -135,9 +135,9 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $merchantId = 2088202967380463; // string | 商户 PID，默认为当前接口调用商户。
-$userId = 2088512417841101; // string | 支付宝用户id
-$openId = 074a1CcTG1LelxKe4xQC0zgNdId0nxi95b5lsNpazWYoCo5; // string | 支付宝用户openId
-$activityId = 2016042700826004508401111111; // string | 活动 id。
+$userId = 2088512417841101; // string | 支付宝user_id账号
+$openId = 074a1CcTG1LelxKe4xQC0zgNdId0nxi95b5lsNpazWYoCo5; // string | 领券的支付宝用户openId
+$activityId = 2016042700826004508401111111; // string | 活动id
 $voucherId = 2021072900073002214009F8QHR3; // string | 用户券 id。支付宝为用户优惠券唯一分配的 id。
 $voucherCode = ABE44; // string | 用户领取的商家券券码。
 $merchantAccessMode = AGENCY_MODE; // string | 商户接入模式。
@@ -155,9 +155,9 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **merchantId** | **string**| 商户 PID，默认为当前接口调用商户。 | [optional]
- **userId** | **string**| 支付宝用户id | [optional]
- **openId** | **string**| 支付宝用户openId | [optional]
- **activityId** | **string**| 活动 id。 | [optional]
+ **userId** | **string**| 支付宝user_id账号 | [optional]
+ **openId** | **string**| 领券的支付宝用户openId | [optional]
+ **activityId** | **string**| 活动id | [optional]
  **voucherId** | **string**| 用户券 id。支付宝为用户优惠券唯一分配的 id。 | [optional]
  **voucherCode** | **string**| 用户领取的商家券券码。 | [optional]
  **merchantAccessMode** | **string**| 商户接入模式。 | [optional]

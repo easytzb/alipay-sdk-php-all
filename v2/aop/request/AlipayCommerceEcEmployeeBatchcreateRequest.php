@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.employee.batchcreate request
  *
  * @author auto create
- * @since 1.0, 2023-09-03 23:31:42
+ * @since 1.0, 2023-10-30 14:21:48
  */
 class AlipayCommerceEcEmployeeBatchcreateRequest
 {

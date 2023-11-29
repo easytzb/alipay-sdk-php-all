@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.codec.share.token.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:26:41
+ * @since 1.0, 2023-11-07 17:20:14
  */
 class AlipayPayCodecShareTokenCreateRequest
 {

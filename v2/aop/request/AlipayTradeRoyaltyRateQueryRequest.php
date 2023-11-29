@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.royalty.rate.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 21:17:40
+ * @since 1.0, 2023-11-07 19:02:09
  */
 class AlipayTradeRoyaltyRateQueryRequest
 {
